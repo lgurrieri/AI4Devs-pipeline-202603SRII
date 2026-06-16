@@ -19,3 +19,7 @@ Discard .env file values and use the ones created using the same keys in GitHub 
 ## Prompt 3: 
 Change the DATABASE_URL, avoiding a new secret by concatenating the existing secrets.
 
+## Prompt 4: 
+Fix DATABASE_URL adding DB_HOST secret definition.
+
+![Step 2](images/step2.png)
