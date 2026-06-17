@@ -23,3 +23,9 @@ Change the DATABASE_URL, avoiding a new secret by concatenating the existing sec
 Fix DATABASE_URL adding DB_HOST secret definition.
 
 ![Step 2](images/step2.png)
+
+## Prompt 5: 
+Evolve this Github workflow adding a last step to deploy de backend build in an EC2 instance. Check the secrets defined in GitHub Repo for AWS and EC2 instance. Don't guess and, if you are no sure about something, just ask me.
+
+![Step 3 - 1](images/step3_1.png)
+![Step 3 - 2](images/step3_2.png)
